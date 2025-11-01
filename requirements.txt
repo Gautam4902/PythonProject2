@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-tensorflow
+gunicorn
+tensorflow==2.15.0
 tensorflow-hub
 pillow
 transformers
 torch
 opencv-python
-gunicorn
