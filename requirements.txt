@@ -1,10 +1,12 @@
 fastapi
 uvicorn
-gunicorn
-tensorflow
+tensorflow==2.20.0
 tensorflow-hub
-pillow
 transformers
 torch
+torchvision
+Pillow
 opencv-python
+pandas
 numpy
+scikit-learn
