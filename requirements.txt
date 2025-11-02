@@ -7,3 +7,4 @@ pillow
 transformers
 torch
 opencv-python
+numpy
