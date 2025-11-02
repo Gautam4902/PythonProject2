@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 gunicorn
-tensorflow==2.15.0
+tensorflow
 tensorflow-hub
 pillow
 transformers
